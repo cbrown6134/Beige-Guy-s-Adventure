@@ -7,6 +7,10 @@
 * Becareful of the snails, slime blocks, and the flying bees.
 * Don't touch the blue faces unless you want to go super slow.
 
-![Level 1](
+![Level 1](https://github.com/cbrown6134/Beige-Guy-s-Adventure/blob/master/gameplay.PNG)
+
+![Level 2](https://github.com/cbrown6134/Beige-Guy-s-Adventure/blob/master/gameplay_2.PNG)
+
+
 
 
